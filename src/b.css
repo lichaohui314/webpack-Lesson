@@ -1,0 +1,7 @@
+html{
+    font-size: 30px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 50px;
+    transform: rotate(30deg)
+}
