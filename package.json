@@ -54,7 +54,7 @@
     "add-asset-html-cdn-webpack-plugin": "^1.0.0",
     "core-js": "^2.6.9",
     "happypack": "^5.0.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "moment": "^2.24.0",
     "vue": "^2.6.10",
     "vue-loader": "^15.7.0",
